@@ -1,0 +1,23 @@
+{
+  "name": "thezealousfool",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "inferno": "^3.8.2",
+    "inferno-component": "^3.8.2",
+    "inferno-mobx": "^3.8.2",
+    "inferno-router": "^3.8.2",
+    "inferno-scripts": "4.2.0",
+    "inferno-server": "^3.8.2",
+    "typography": "^0.16.4"
+  },
+  "scripts": {
+    "start": "inferno-scripts start",
+    "build": "inferno-scripts build",
+    "test": "inferno-scripts test --env=jsdom",
+    "eject": "inferno-scripts eject"
+  },
+  "devDependencies": {
+    "babel-plugin-inferno": "^3.2.0"
+  }
+}
